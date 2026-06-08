@@ -1,1 +1,1 @@
-echo "hello Devops"
+print("DevOps Practice - Version 4")
